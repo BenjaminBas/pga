@@ -1,0 +1,26 @@
+h1{
+color: red;
+background-color: blue;
+}
+h1:hover{
+color: blue;
+background-color: red;
+}
+button{
+color: #b79f89;
+background-color: #77583b;
+width: 100px;
+height: 50px;
+}
+button:hover{
+color: #77583b;
+background-color: #b79f89;
+}
+.diferente{
+color: green;
+background-color: greenyellow;
+}
+.diferente:hover{
+color: greenyellow;
+background-color: green;
+}
